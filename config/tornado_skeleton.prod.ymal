@@ -1,0 +1,15 @@
+---
+# Example of a configuration file
+version: 1.0
+
+api:
+  port: 8080
+  version: 1.0.0
+  base_url: /tornado-skeleton
+
+# One can declare here others variables, such as connectors to a database
+# mysql:
+#  user: john_doe
+#  password: my_password
+#  host: my.host.com
+#  database: my_database
