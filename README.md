@@ -5,7 +5,8 @@ Tornado Skeleton is a project that aims to set a coding convention and a project
 an API using the Python Tornado Framework.
 
 ## Project Structure
->tornado_skeleton/
+```
+tornado_skeleton/
     bin/
         tornado_skeleton_app.py
     config/
@@ -21,3 +22,4 @@ an API using the Python Tornado Framework.
     .gitignore
     README.md
     requirements.txt
+```
