@@ -13,13 +13,29 @@ tornado_skeleton/
         tornado_skeleton.dev.yaml
         tornado_skeleton.prod.yaml
         tornado_skeleton.yaml
-    tests/
     tornado_skeleton/
         api/
             handlers/
+                __init__.py
+                base_handler.py
+                main_handler.py
+                user_handler.py
+            __init__.py
+            response_errors.py
+            tornado_skeleton_api.py
         helpers/
+            error_code.py
         models/
+            __init__.py
+            user.py
+    tests/
     .gitignore
     README.md
     requirements.txt
 ```
+
+## Detail of the project
+### bin
+### config
+### tornado_skeleton
+### tests
