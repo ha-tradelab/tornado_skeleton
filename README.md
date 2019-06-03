@@ -4,6 +4,8 @@
 Tornado Skeleton is a project that aims to set a coding convention and a project structure to follow when developing 
 an API using the Python Tornado Framework.
 
+This skeleton is heavily inspired by Gandalf (https://github.com/tradelab/gandalf), one would like to check it to see how it is used. 
+
 ## Project Structure
 ```
 tornado_skeleton/
